@@ -11,6 +11,8 @@ public class Check_even
 		  System.out.println("it is even");
 	  else
 		  System.out.println("it is odd");
+	  
+	  System.out.println("hello");
 
 	}
 
